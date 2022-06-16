@@ -21,5 +21,5 @@ int sum = 0;
 while (aInt>sum)
 {
     sum++;
-    Console.WriteLine(sum*sum);
+    Console.WriteLine(sum*sum*sum);
 }
